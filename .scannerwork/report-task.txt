@@ -1,0 +1,5 @@
+projectKey=RYU_TEST
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/RYU_TEST
+ceTaskId=AV0W2gbrYwB_gwiN5Cbl
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV0W2gbrYwB_gwiN5Cbl
